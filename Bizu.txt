@@ -1,0 +1,1 @@
+Copiei 'primeiro-projeto-node' para a pasta /backend/, para começar o 'Iniciando back-end do app'.
